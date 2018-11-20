@@ -1,0 +1,4 @@
+https://airccj.org/CSCP/vol3/csit3639.pdf [Accessed: 11-Sep-2018].
+https://www.researchgate.net/publication/262731986_Named_Entity_Recognition_for_Punjabi-A_Conditional_Random_Field_Approach[Accessed: 11-Sep-2018].
+http://www.scielo.org.mx/pdf/poli/n38/n38a5.pdf [Accessed: 11-Sep-2018].
+Hindi Monolingual Text Corpus ILCI-II[Accessed: 19-Nov-2018].
