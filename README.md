@@ -39,6 +39,9 @@ mini_project_ner_accuracy.py
 
 
 contact details(group members):
+
 subham raj(iit2016010),7992256326
+
 ankit kumar(iit2016024),8229880027
+
 deepanshu goyal(iit2016037),7571848905
