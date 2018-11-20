@@ -2,16 +2,23 @@
 
 
 installtion guide:
-sudo apt-get update,
-sudo apt-get install python3-pip,
-sudo apt install python3-sklearn,
-pip3 install sklearn-crfsuite,
-pip3 install nltk,
+sudo apt-get update
+
+sudo apt-get install python3-pip
+
+sudo apt install python3-sklearn
+
+pip3 install sklearn-crfsuite
+
+pip3 install nltk
 
 files attached:
 
 mini_project_ner.py
 (to identify ner of hindi sentences)
+
+
+
 	input_file:
 	train_ner.txt(contains words,it's pos and it's ner)
 	test_file.txt(user gives hindi words which contains word and its POS)
@@ -21,6 +28,8 @@ mini_project_ner.py
 
 mini_project_ner_accuracy.py
 (to calculate precison,recall,f1 score and support)
+	
+	
 	input_file:
 	train_ner.txt(contains words,it's pos and it's ner)
 	test_accuracy.txt(contains words,it's pos and it's ner)
