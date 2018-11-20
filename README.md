@@ -2,11 +2,11 @@
 
 
 installtion guide:
-sudo apt-get update
-sudo apt-get install python3-pip
-sudo apt install python3-sklearn
-pip3 install sklearn-crfsuite
-pip3 install nltk
+sudo apt-get update,
+sudo apt-get install python3-pip,
+sudo apt install python3-sklearn,
+pip3 install sklearn-crfsuite,
+pip3 install nltk,
 
 files attached:
 
