@@ -1,0 +1,12 @@
+﻿राजनीति N_NN
+को PSP
+नए JJ
+आयाम N_NN  
+देने V_VM 
+वाले PSP 
+रोहित N_NNP
+मिश्रा N_NNP
+कहां DM_DMQ
+गए V_VAUX
+। RD_PUNC
+  
