@@ -14,6 +14,15 @@ pip3 install nltk
 
 files attached:
 
+Dataset:
+train_ner.txt:
+Contains 200 words(sample)
+test_accuracy.txt
+Contains 50 words(sample)
+test_file.txt
+Contains 1 hindi sentece given by user
+
+ACTUAL CODE:
 mini_project_ner.py
 (to identify ner of hindi sentences)
 
