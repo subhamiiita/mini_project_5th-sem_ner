@@ -17,39 +17,40 @@ The CRF implementation uses following features:
 # Requirements
 
 ## Libraries/Data
-python 3 or above (only tested on that version)
-python-crfsuite
-nltk 
-pos tagged hindi data
+
+- python 3 or above (only tested on that version)
+- python-crfsuite
+- nltk 
+- pos tagged hindi data
 
 # Installtion guide:
 
-sudo apt-get update
+- sudo apt-get update
 
-sudo apt-get install python3-pip
+- sudo apt-get install python3-pip
 
-sudo apt install python3-sklearn
+- sudo apt install python3-sklearn
 
-pip3 install sklearn-crfsuite
+- pip3 install sklearn-crfsuite
 
-pip3 install nltk
+- pip3 install nltk
 
 # Files attached:
 
 ## Dataset:
 
 
-train_ner.txt:
+- train_ner.txt:
 
-Contains 200 words(sample)
+	Contains 200 words(sample)
 
-test_accuracy.txt
+- test_accuracy.txt
 
-Contains 50 words(sample)
+	Contains 50 words(sample)
 
-test_file.txt
+- test_file.txt
 
-Contains 1 hindi sentece given by user
+	Contains 1 hindi sentece given by user
 
 # Actual code:
 
@@ -83,8 +84,8 @@ Contains 1 hindi sentece given by user
 
 # contact details(group members):
 
-subham raj(iit2016010),7992256326
+- subham raj(iit2016010),7992256326
 
-ankit kumar(iit2016024),8229880027
+- ankit kumar(iit2016024),8229880027
 
-deepanshu goyal(iit2016037),7571848905
+- deepanshu goyal(iit2016037),7571848905
