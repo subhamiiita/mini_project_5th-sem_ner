@@ -23,9 +23,9 @@ files attached:
 
 ## Dataset:
 
-```diff
-+train_ner.txt:
-```
+
+train_ner.txt:
+
 Contains 200 words(sample)
 
 test_accuracy.txt
