@@ -23,8 +23,9 @@ files attached:
 
 ## Dataset:
 
-train_ner.txt:
-
+```diff
++train_ner.txt:
+```
 Contains 200 words(sample)
 
 test_accuracy.txt
@@ -43,10 +44,12 @@ Contains 1 hindi sentece given by user
 
 
 	input_file:
+	
 	train_ner.txt(contains words,it's pos and it's ner)
 	test_file.txt(user gives hindi words which contains word and its POS)
 
 	output_file:
+	
 	predicted ner in file output_file.txt. 
 
 ### mini_project_ner_accuracy.py
@@ -54,10 +57,12 @@ Contains 1 hindi sentece given by user
 	
 	
 	input_file:
+	
 	train_ner.txt(contains words,it's pos and it's ner)
 	test_accuracy.txt(contains words,it's pos and it's ner)
 
 	output_file:
+	
 	predicted ner in file output_file_predicted.txt.
 
 
