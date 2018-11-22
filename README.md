@@ -12,7 +12,7 @@ The CRF implementation uses following features:
 
 - Word Features:current word,previous word and next word
 - POS tag of current word,previous word and next word
-- Prefixes and suffixes of current word
+- Suffixes of current word
 
 # Requirements
 
