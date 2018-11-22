@@ -1,10 +1,15 @@
-About
+# About
+
+
+
+
 This is an implementation using (linear chain) conditional random fields (CRF) in python 3.7 for named entity recognition (NER) in hindi. It uses the python-crfsuite library as its basis.It can handle the labels PER, LOC, ORG and O(others). Scores are expected to be a bit lower for other labels than PER, because training data has more person in it. The implementation achieved an F1 score for PER was 0.923 and an F1 score for LOC was 0.838 and for ORG ,it was 0.500.
 
 
 
 
 installtion guide:
+
 sudo apt-get update
 
 sudo apt-get install python3-pip
@@ -41,7 +46,7 @@ mini_project_ner.py
 	test_file.txt(user gives hindi words which contains word and its POS)
 
 	output_file:
-	predicted ner in file output_file.txt.
+	predicted ner in file output_file.txt. 
 
 mini_project_ner_accuracy.py
 (to calculate precison,recall,f1 score and support)
