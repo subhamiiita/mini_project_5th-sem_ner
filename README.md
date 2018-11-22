@@ -7,8 +7,7 @@ This is an implementation using (linear chain) conditional random fields (CRF) i
 
 
 
-
-installtion guide:
+## Installtion guide:
 
 sudo apt-get update
 
@@ -22,7 +21,8 @@ pip3 install nltk
 
 files attached:
 
-Dataset:
+## Dataset:
+
 train_ner.txt:
 
 Contains 200 words(sample)
@@ -35,8 +35,9 @@ test_file.txt
 
 Contains 1 hindi sentece given by user
 
-ACTUAL CODE:
-mini_project_ner.py
+## ACTUAL CODE:
+
+### mini_project_ner.py
 (to identify ner of hindi sentences)
 
 
@@ -48,7 +49,7 @@ mini_project_ner.py
 	output_file:
 	predicted ner in file output_file.txt. 
 
-mini_project_ner_accuracy.py
+### mini_project_ner_accuracy.py
 (to calculate precison,recall,f1 score and support)
 	
 	
@@ -60,7 +61,7 @@ mini_project_ner_accuracy.py
 	predicted ner in file output_file_predicted.txt.
 
 
-contact details(group members):
+## contact details(group members):
 
 subham raj(iit2016010),7992256326
 
