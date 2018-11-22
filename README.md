@@ -82,7 +82,7 @@ The CRF implementation uses following features:
 	predicted ner in file output_file_predicted.txt.
 
 
-# contact details(group members):
+# Contact details(group members):
 
 - subham raj(iit2016010),7992256326
 
